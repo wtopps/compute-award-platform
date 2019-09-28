@@ -5,3 +5,4 @@
 该平台定位于业务中台，为业务平台提供计算奖励结果的能力，支持多种算奖算法模型，核心功能定位于红包、积分等奖池瓜分业务场景，例如支付宝春节集五福瓜分现金大奖、淘宝双十一参与互动玩法瓜分购物红包等业务场景。
 
 
+https://github.com/wtopps/compute-award-platform/raw/master/imgs/system desgin.jpg
