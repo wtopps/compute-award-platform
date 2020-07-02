@@ -36,7 +36,7 @@
         <dubbo.version>2.6.2</dubbo.version>
         <guava.version>26.0-jre</guava.version>
         <commons-beanutils.version>1.9.3</commons-beanutils.version>
-        <mysql.version>5.1.40</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
     </properties>
 
     <dependencyManagement>
