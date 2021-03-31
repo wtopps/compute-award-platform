@@ -34,7 +34,7 @@
         <fastjson.version>1.2.60</fastjson.version>
         <slf4j.version>1.7.25</slf4j.version>
         <dubbo.version>2.6.2</dubbo.version>
-        <guava.version>26.0-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <commons-beanutils.version>1.9.3</commons-beanutils.version>
         <mysql.version>5.1.40</mysql.version>
     </properties>
