@@ -31,7 +31,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven-surefire-plugin.version>2.19.1</maven-surefire-plugin.version>
         <apache-commons-lang3.version>3.4</apache-commons-lang3.version>
-        <fastjson.version>1.2.60</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <slf4j.version>1.7.25</slf4j.version>
         <dubbo.version>2.6.2</dubbo.version>
         <guava.version>26.0-jre</guava.version>
